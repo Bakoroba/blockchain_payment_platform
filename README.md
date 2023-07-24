@@ -1,5 +1,5 @@
 # Create a robot advisor to recommend an investment portfolio for a retirement plan.
-The objective is to integrating the Ethereum blockchain network into an application in order to enable customers to instantly pay the fintech professionals whom they hire with cryptocurrency.
+The objective is to integrate the Ethereum blockchain network into an application in order to enable customers to instantly pay the fintech professionals whom they hire with cryptocurrency.
 
 ## Tasks
 - Generate a new Ethereum account instance by using the mnemonic seed phrase provided by Ganache.
@@ -30,7 +30,8 @@ The technologies used are:
 
 ## Installation Guide
 
-To run, download the repository, open a terminal and run: streamlit run fintech_finder.py
+To run, download the repository, open a terminal and execute 'streamlit run fintech_finder.py'
+
 ---
 
 ## License
