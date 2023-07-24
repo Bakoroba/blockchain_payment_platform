@@ -15,6 +15,7 @@ The objective is to integrating the Ethereum blockchain network into an applicat
 
 2. Navigate to the Ganache transactions tab and locate the transaction.
  
+ <img src="Images/address_balance.png">
 ## Technologies
 
 The technologies used are:
