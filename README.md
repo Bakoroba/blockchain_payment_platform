@@ -1,4 +1,4 @@
-# Create a robot advisor to recommend an investment portfolio for a retirement plan.
+# Integrate an Ethereum blockchain network into a FinTech finder application
 The objective is to integrate the Ethereum blockchain network into an application in order to enable customers to instantly pay the fintech professionals whom they hire with cryptocurrency.
 
 ## Tasks
